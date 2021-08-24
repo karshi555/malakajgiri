@@ -41,6 +41,13 @@ public class Basics {
 		System.out.println(b.abc());
 		
 		System.out.println(Basics.ge());
+		
+		
+		//one
+		//two
+		//three
+		//four
+		
 
 	}
 
