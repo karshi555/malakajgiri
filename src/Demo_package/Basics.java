@@ -43,11 +43,9 @@ public class Basics {
 		System.out.println(Basics.ge());
 		
 		
-		//one
-		//two
-		//three
-		//four
-		//five
+		//karshak
+		//suhail
+		
 		
 
 	}
